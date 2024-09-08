@@ -1,0 +1,25 @@
+[node.common]
+border_width = 2
+
+[node.unvisited]
+face_color = [1.0, 1.0, 1.0]
+border_color = [0.0, 0.0, 0.0, 0.2]
+
+[node.visited]
+face_color = [0.5, 0.5, 0.5]
+border_color = [0.0, 0.0, 0.0, 1.0]
+
+[edge.common]
+edge_width = 2
+arrow_width = 40
+arrow_length = 0.05
+arrow_pos = 0.8
+
+[edge.unvisited]
+edge_color = [0.0, 0.0, 0.0, 0.1]
+arrow_color = [0.0, 0.0, 0.0, 0.5]
+
+[edge.visited]
+edge_color = [0.0, 0.0, 0.0, 1.0]
+arrow_color = [0.0, 0.0, 0.0, 1.0]
+

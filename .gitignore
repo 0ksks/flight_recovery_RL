@@ -1,0 +1,34 @@
+# Custom
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# Virtualenv
+.Python
+env/
+venv/
+ENV/
+venv.bak/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS 文件系统资源 fork
+.Spotlight-V100
+.Trashes
